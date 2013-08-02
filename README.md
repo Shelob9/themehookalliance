@@ -64,3 +64,4 @@ Working on it!
 	* [Documentation](https://github.com/bueltge/Documentation) by Frank Bültge
 	* [Opus Primus](http://wordpress.org/extend/themes/opus-primus) (via a Stanza) by Cais ([github](https://github.com/Cais/opus-primus))
 	* [Oenology](http://www.chipbennett.net/themes/oenology/) by Chip Bennett ([github](https://github.com/chipbennett/oenology))
+	* [_Second Foundation](http://complexwaveform.com/secondfoundation) by Josh Pollock([github](https://github.com/Shelob9/_second_foundation))
